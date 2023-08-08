@@ -9,3 +9,4 @@ The apps included in this repository are:
 - eis/rc-rc - an app for simulating the EIS response of two parallel RC circuits connected in series
 - eis/simulate-eis - an app for simulating any user-defined circuit
 
+In principle these apps can be run directly by opening either ui.R, server.R or app.R as appropriate in RStudio, and choosing "Run app". You may need to install the dependencies first.
